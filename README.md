@@ -1,3 +1,1 @@
-Learning Solidity
-Galaxy ID: bit.ly/GalaxyID
-Telegram: @ArshiaGS
+Learning Solidity | Galaxy ID: https://bit.ly/GalaxyID
