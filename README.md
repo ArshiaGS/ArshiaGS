@@ -1,1 +1,1 @@
-Learning Solidity | Galaxy ID: https://bit.ly/GalaxyID
+Learning Solidity | Galxe ID: https://bit.ly/GalxeID
